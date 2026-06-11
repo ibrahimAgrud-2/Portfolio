@@ -1,0 +1,58 @@
+.navbar-text
+{
+    gap: 50px;
+}
+
+
+
+
+
+/*-------------------------------------------------------*/
+.image
+{
+    width: 250px;
+  
+}
+
+.titleHead
+{
+    font-size: xx-large;
+   
+}
+
+.section
+{
+    margin-top: 400px;
+}
+
+.edu-Title-text
+{
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+}
+
+.innerDiv
+{
+    margin-top: 100px;
+}
+.edu-card-content
+{
+background-color: black;
+}
+
+
+.project-card
+{
+     margin-bottom: 50px;
+     height: fit-content;
+}
+
+.skills-card-content
+{
+     color: green;
+}
+.projects-card-content
+{
+     color: red;
+}
