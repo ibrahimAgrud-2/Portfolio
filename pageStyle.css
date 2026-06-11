@@ -1,24 +1,44 @@
+/*------------------Nav-hero---------------------------*/
+
 .navbar-text
 {
     gap: 50px;
 }
 
-
-
-
-
-/*-------------------------------------------------------*/
-.image
+.name-box
 {
-    width: 250px;
+ color: rgb(170, 67, 249);
+font-family: "__Kanit_f23807", "__Kanit_Fallback_f23807";
+
+}
+
+.contact-icon
+{
+    padding-right: 150px;
+}
+/*-------------------------------------------------*/
+
+
+
+/*---------------------edu-----------------------------*/
+.edu-card-black
+{
+   background-color: black;
   
 }
 
-.titleHead
+
+.image
 {
-    font-size: xx-large;
-   
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 90px;
 }
+
+/*-------------------------------------------------*/
+
+
+
 
 .section
 {
@@ -32,10 +52,6 @@
     margin-top: 50px;
 }
 
-.innerDiv
-{
-    margin-top: 100px;
-}
 .edu-card-content
 {
 background-color: black;
