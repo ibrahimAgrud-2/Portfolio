@@ -46,39 +46,21 @@ font-family: "__Kanit_f23807", "__Kanit_Fallback_f23807";
 {
 gap: 70px;
 }
+
+
 /*-------------------------------------------------*/
 
 
 
 .section
 {
-    margin-top: 400px;
+    margin-top: 200px;
 }
-
-.edu-Title-text
-{
-    font-size: 20px;
-    color: white;
-    margin-top: 50px;
-}
-
-.edu-card-content
-{
-background-color: black;
-}
-
 
 .project-card
 {
      margin-bottom: 50px;
      height: fit-content;
+     background-color: black;
 }
 
-.skills-card-content
-{
-     color: green;
-}
-.projects-card-content
-{
-     color: red;
-}
